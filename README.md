@@ -1,5 +1,7 @@
-[dsadas](https://github.com/)
-Welcome to the FPS Boost repository, your go-to solution for optimizing your system to achieve the best gaming experience possible! This batch tweaking script is designed to enhance your system's performance and boost your FPS in games. It is free, open-source, and compatible with Windows 10 & 11.
+Welcome to the FPS Boost repository, your go-to solution for optimizing your system to achieve the best gaming experience possible! This batch tweaking script is designed to enhance your system's performance and boost your FPS in games. 
+[Download Now](https://github.com/dikoia/Fps-Booster-All-Game/releases/tag/1)
+
+It is free, open-source, and compatible with Windows 10 & 11.
 
 ![1](https://github.com/user-attachments/assets/8238dbc7-e93f-486a-9b79-a24be7327365)
 
